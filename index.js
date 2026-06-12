@@ -37,7 +37,9 @@ const estudiantes = [
   { nombre: 'Teresa Vega', correo: 't.vega.solis@email.com', nota: 9.0 },
 ];
 
-// GET
+// GET All
+
+// GET By ID
 
 // POST
 
